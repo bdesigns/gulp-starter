@@ -1,12 +1,14 @@
 # Gulp Starter Kit
 
-Gulp Starter kit for quick kick off of a project
+Gulp Starter kit for quick project kick offs
 
 ## Instructions
 
-Download or Clone repo into a local folder
+Download or Clone this repo into a local folder
 
-`$ npm install `
+```
+$ npm install
+```
 
 Install the dependencies (gulp, gulp-sass, browser-sync, gulp-autoprefixer)
 
@@ -14,4 +16,6 @@ Install the dependencies (gulp, gulp-sass, browser-sync, gulp-autoprefixer)
 
 This will watch your project files, compile them and run a dev server in localhost.
 
-`$ npm start`
+```
+$ npm start
+```
