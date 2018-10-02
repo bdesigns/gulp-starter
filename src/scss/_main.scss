@@ -1,0 +1,19 @@
+$bkgrd-color:#333;
+$text-color:#999;
+
+html{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    background-color:$bkgrd-color;
+    color:$text-color;
+}
+
+header,
+.content{
+    max-width:960px;
+    margin:0 auto;
+}
