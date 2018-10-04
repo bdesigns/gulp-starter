@@ -1,0 +1,17 @@
+{
+  "name": "starter-pack-gulp",
+  "version": "1.0.0",
+  "description": "Basic setup of gulp task runner",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Brad E",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-sass": "^3.1.0"
+  }
+}
